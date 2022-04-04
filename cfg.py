@@ -1,3 +1,3 @@
-coockie = '_ga=GA1.2.1473456353.1642999263; bitmedia_fid=eyJmaWQiOiI0ZDkxOTY0NDQ3NjQzMWI2MjM4NmI0NjdlZmEyNTFkMiIsImZpZG5vdWEiOiI5ZTlhOWZlZTEwMTk1ODNhOWZhOGQ4OTliMWYzZDM3YyJ9; _gid=GA1.2.512173839.1648961669; _coinzilla_fp_={"backed":[{"cap":2,"lastCall":1648994948570}]}; _gat_gtag_UA_157714740_1=1'
-user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36"
-bear = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxZWUyZGM0YzBhMjQ4NWYwZTUyMTNhNSIsImlhdCI6MTY0OTA1MTU2NSwiZXhwIjoxNjQ5MTM3OTY1fQ.PjqZCbNB1cKvLEw_E5C-Zb6XLmj__HEEN3KCUjwsyl4"
+coockie = 'xxxxxxx'
+user_agent = "xxxxx"
+bear = "xxxxxxx" #Autorization
