@@ -1,3 +1,3 @@
-coockie = 'xxxxxxx'
-user_agent = "xxxxx"
-bear = "xxxxxxx" #Autorization
+coockie = '_gid=GA1.2.1327240997.1695746382; _gat_gtag_UA_157714740_1=1; _ga=GA1.1.8902055.1695746382; _ga_RBNPR7SQ94=GS1.1.1695746381.1.1.1695746382.0.0.0'
+user_agent = "Mozilla/5.0 (Linux; Android 11; 4063T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
+bear = "https://request-global.czilladx.com/serve/view.php?w=320&h=100&z=9995f15610ab2d4c977&c=DEFAULT&n=2fd4a1ea2e49101cfe457751c068e6e40ff9c0f1783a6c5a7fa2386274ec90c9&integrity=eyJrZXkiOiJhOTcxYzllZTZlYmNmM2E0NjgyOTBjZjRiNjljOWZhZjVlYjBhYWQ2ZGZiYzZiZjYwM2Q5MTFiNWZiNjYzZjIzIiwidGltZXN0YW1wIjoxNjk1NzQ3ODM3LjAzMzA2MiwiaWRlbnRpZmllciI6IjhiMjFiMGQxMzEzMDE4ODU3MGNmMzI4ZTk0NTQwNWYyMGYwNTZlZTkwMjM2OWY1NWE4MzI2NWRhZGIwOTQ4NWUifQ" #Autorization
